@@ -1,0 +1,82 @@
+/* Your Website Styles */
+body {
+	font-family: 'Montserrat', sans-serif; line-height: 30px; color: #58595b;
+	background: url("../img/subtle_dots.png") repeat;
+
+}
+
+.container {
+	 width: 1020px;
+	 margin: auto; 
+	 background: #ffffff;
+	 box-shadow: 0px 5px 45px #e1e1e1;
+}
+
+h1 {
+	font-family: 'Expletus Sans', 'cursive';
+	color: #58595b;
+	margin: 120px 0 0px 20px;
+	font-size: 26pt;
+
+}
+
+#picture {
+	margin: 24px 0 0 25px;
+	border: 2px solid #e1e1e1;
+	padding: 21px 21px 21px 21px;
+}
+
+h2 {
+	margin: 20px 0 24px 20px;
+	text-align: justify;
+	color: #58595b;
+}
+
+p {
+	margin: 20px 0 0 20px;
+	text-align: justify;
+}
+
+#picture2 {
+	margin: 24px 0 0 120px;
+	border: 2px solid #e1e1e1;
+	padding: 21px 21px 21px 21px;
+}
+
+header {
+	height: 175px;
+	background: #e1e1e1;
+}
+
+header nav {
+	margin: 120px 0 0px 5px;
+}
+
+header nav ul li {
+	list-style: none;
+	float: left;
+	margin-left: 100px;	
+}
+
+header nav ul li a {
+	color: #00a1e0;
+}
+
+footer ul {
+	margin: 24px 0 190px 65px;
+}
+
+footer ul li {
+	list-style: none;
+	float: left;
+	margin-left: 100px;	
+}
+
+footer ul li a {
+	color: #00a1e0;
+}
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
